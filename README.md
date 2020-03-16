@@ -19,7 +19,7 @@ This is the personal website for the future web developer Kenny Mc
 * Clone down this repo
 * at the root of the project run npm install
 
-How to Run
+# How to Run
 * In your terminal type npm start.
 
 # Authors
