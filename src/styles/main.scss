@@ -36,14 +36,19 @@ img {
   margin: 20px auto 5px;
 }
 
-.info p {
+.bio p {
+  margin: 20px 300px;
+  text-align: justify;
+  color: #fe6e0c;
+}
+#vlog p {
   margin: 20px 300px;
   text-align: justify;
   color: #fe6e0c;
 }
 
 
-.tech {
+#tech {
  padding-top: 100px;
   
 }
@@ -114,7 +119,7 @@ img {
   color: #fe6e0c;
 }
 
-#info h1::after {
+#vlog h1::after {
   content: "";
   background: #ff9800;
   display: block;
@@ -123,7 +128,7 @@ img {
   margin: 20px auto 5px;
 }
 
-#info {
+#vlog {
   background-color: white;
   /* background-image: linear-gradient(#f7faf8, #585c59); */
   margin-top: 30px;
