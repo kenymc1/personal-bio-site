@@ -10,28 +10,28 @@ const navigation = () => {
   domString += '<span class="navbar-toggler-icon"></span></button>';
   domString += '<div class="collapse navbar-collapse" id="navbarNav">';
   domString += '<ul class="navbar-nav ml-auto">';
-  domString += '<li class="nav-item active">';
-  domString += '<a class="nav-link" href="#bio">Who is He <span class="sr-only">(current)</span></a>';
+  domString += '<li class="nav-item">';
+  domString += '<a class="nav-link hoverable" href="#bio">Who is He <span class="sr-only">(current)</span></a>';
   domString += '</li>';
 
-  domString += '<li class="nav-item">';
+  domString += '<li class="nav-item hoverable">';
   domString += '<a class="nav-link" href="#tech">Technologies</a>';
   domString += '</li>';
 
-  domString += '<li class="nav-item">';
+  domString += '<li class="nav-item hoverable">';
   domString += '<a class="nav-link" href="#vlog">videos</a>';
   domString += '</li>';
 
-  domString += '<li class="nav-item">';
+  domString += '<li class="nav-item hoverable">';
   domString += '<a class="nav-link" href="#projects">Projects</a>';
   domString += '</li>';
 
 
-  domString += '<li class="nav-item">';
+  domString += '<li class="nav-item hoverable">';
   domString += '<a class="nav-link" href="#contact">Contact</a>';
   domString += '</li>';
 
-  domString += '<li class="nav-item">';
+  domString += '<li class="nav-item hoverable">';
   domString += '<a class="nav-link" href="#social-media">Get Social</a>';
   domString += '</li>';
   domString += '</ul>';
