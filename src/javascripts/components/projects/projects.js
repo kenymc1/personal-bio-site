@@ -6,7 +6,7 @@ const projects = () => {
 
   domString += '<h1 class="text-center">The Projects</h1>';
   // eslint-disable-next-line max-len
-  domString += '<p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime enim dolores corrupti, illo tenetur labore dolore ratione ea consectetur velit repudiandae repellendus! Dolore illo molestias doloribus, molestiae enim rerum amet?</p>';
+  domString += '<p class="text-center">Below are a few of my design projects. you can find the code for these on Git Hub also.</p>';
 
 
   domString += '<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">';

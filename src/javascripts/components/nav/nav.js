@@ -11,7 +11,7 @@ const navigation = () => {
   domString += '<div class="collapse navbar-collapse" id="navbarNav">';
   domString += '<ul class="navbar-nav ml-auto">';
   domString += '<li class="nav-item">';
-  domString += '<a class="nav-link hoverable" href="#bio">Who is He <span class="sr-only">(current)</span></a>';
+  domString += '<a class="nav-link hoverable" href="#bio">bio <span class="sr-only">(current)</span></a>';
   domString += '</li>';
 
   domString += '<li class="nav-item hoverable">';
@@ -28,11 +28,7 @@ const navigation = () => {
 
 
   domString += '<li class="nav-item hoverable">';
-  domString += '<a class="nav-link" href="#contact">Contact</a>';
-  domString += '</li>';
-
-  domString += '<li class="nav-item hoverable">';
-  domString += '<a class="nav-link" href="#social-media">Get Social</a>';
+  domString += '<a class="nav-link" href="#socialMedia">contact</a>';
   domString += '</li>';
   domString += '</ul>';
   domString += '</div>';

@@ -1,0 +1,49 @@
+{	
+	"portfolio" : {
+	"project1": {
+	"title": "Mushroom Picker",
+	"screenshot": "https://github.com/kenymc1/mushroom-picker/issues/1#issue-640073775",
+	"description": "This project we created a game that chose random mushrooms to place in a virtual basket",
+	"technologiesUsed": "HTML, CSS, React, and BootStrap",
+	"available": "true",
+	"url": "https://mushroom-picker-6cba0.firebaseapp.com/",
+	"githubUrl": "https://github.com/kenymc1/mushroom-picker"
+  },
+	"project2": {
+	"title": "Pinterest",
+	"screenshot": "https://github.com/kenymc1/pinterest/issues/6#issue-640081237",
+	"description": "This project we Pinterest Boards using JS forEach loops and Bootstrap",
+	"technologiesUsed": "HTML, CSS, Vanilla JavaScript, and BootStrap",
+	"available": "true",
+	"url": "https://pinterest-b33af.firebaseapp.com/",
+	"githubUrl": "https://github.com/kenymc1/pinterest"
+  },
+	"project3": {
+	"title": "Sports Roster",
+	"screenshot": "https://github.com/kenymc1/sports-roster/issues/1#issue-640085980",
+	"description": "This project we built a roster that show the members of a team",
+	"technologiesUsed": "HTML, CSS, React, and BootStrap",
+	"available": "true",
+	"url": "https://sports-roster-cb7e6.firebaseapp.com/",
+	"githubUrl": "https://github.com/kenymc1/sports-roster"
+  },
+	"project4": {
+	"title": "Hoarder",
+	"screenshot": "https://github.com/kenymc1/React-hoarder/issues/2#issue-640090684",
+	"description": "This project we are able to show and add useless stuff we have",
+	"technologiesUsed": "HTML, CSS, React, and BootStrap",
+	"available": "true",
+	"url": "https://react-hoarder-bf2d2.web.app/",
+	"githubUrl": "https://react-hoarder-bf2d2.web.app/"
+  },
+	"project5": {
+	"title": "Scatt-Surprise",
+	"screenshot": "https://github.com/kenymc1/scatt-surprise/issues/1#issue-640098585",
+	"description": "A fun collection of cat poop",
+	"technologiesUsed": "HTML, CSS, React, and BootStrap",
+	"available": "true",
+	"url": "https://scat-surprise-313c2.firebaseapp.com/home",
+	"githubUrl": "https://github.com/kenymc1/scatt-surprise"
+  }
+ }
+}

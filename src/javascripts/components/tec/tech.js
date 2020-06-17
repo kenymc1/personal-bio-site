@@ -9,7 +9,7 @@ const tech = () => {
   domString += '<div class="tech text-center">';
   domString += '<i class="fab fa-html5"></i>';
   // eslint-disable-next-line max-len
-  domString += '<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam error eius sapiente, cum nobis aliquam? Officia aspernatur assumenda quam perspiciatis, omnis animi laudantium veritatis at optio nemo ea consectetur quisquam?</p>';
+  domString += '<p>HTML5</p>';
   domString += '</div>';
   domString += '</div>';
 
@@ -17,7 +17,7 @@ const tech = () => {
   domString += '<div class="tech text-center">';
   domString += '<i class="fab fa-css3-alt"></i>';
   // eslint-disable-next-line max-len
-  domString += '<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam error eius sapiente, cum nobis aliquam? Officia aspernatur assumenda quam perspiciatis, omnis animi laudantium veritatis at optio nemo ea consectetur quisquam?</p>';
+  domString += '<p>CSS3</p>';
   domString += '</div>';
   domString += '</div>';
 
@@ -25,7 +25,7 @@ const tech = () => {
   domString += '<div class="tech text-center">';
   domString += '<i class="fab fa-js"></i>';
   // eslint-disable-next-line max-len
-  domString += '<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam error eius sapiente, cum nobis aliquam? Officia aspernatur assumenda quam perspiciatis, omnis animi laudantium veritatis at optio nemo ea consectetur quisquam?</p>';
+  domString += '<p>Javascript</p>';
   domString += '</div>';
   domString += '</div>';
 
@@ -33,7 +33,7 @@ const tech = () => {
   domString += '<div class="tech text-center">';
   domString += '<i class="fab fa-react"></i>';
   // eslint-disable-next-line max-len
-  domString += '<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam error eius sapiente, cum nobis aliquam? Officia aspernatur assumenda quam perspiciatis, omnis animi laudantium veritatis at optio nemo ea consectetur quisquam?</p>';
+  domString += '<p>React</p>';
   domString += '</div>';
   domString += '</div>';
 
@@ -41,7 +41,7 @@ const tech = () => {
   domString += '<div class="tech text-center">';
   domString += '<i class="fab fa-bootstrap"></i>';
   // eslint-disable-next-line max-len
-  domString += '<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam error eius sapiente, cum nobis aliquam? Officia aspernatur assumenda quam perspiciatis, omnis animi laudantium veritatis at optio nemo ea consectetur quisquam?</p>';
+  domString += '<p>BootStrap</p>';
   domString += '</div>';
   domString += '</div>';
 
@@ -49,7 +49,7 @@ const tech = () => {
   domString += '<div class="tech text-center">';
   domString += '<i class="fab fa-github-alt"></i>';
   // eslint-disable-next-line max-len
-  domString += '<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam error eius sapiente, cum nobis aliquam? Officia aspernatur assumenda quam perspiciatis, omnis animi laudantium veritatis at optio nemo ea consectetur quisquam?</p>';
+  domString += '<p>Git Hub</p>';
   domString += '</div>';
   domString += '</div>';
 
@@ -57,7 +57,7 @@ const tech = () => {
   domString += '<div class="tech text-center">';
   domString += '<i class="fab fa-git-square"></i>';
   // eslint-disable-next-line max-len
-  domString += '<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam error eius sapiente, cum nobis aliquam? Officia aspernatur assumenda quam perspiciatis, omnis animi laudantium veritatis at optio nemo ea consectetur quisquam?</p>';
+  domString += '<p>Git</p>';
   domString += '</div>';
   domString += '</div>';
 
@@ -65,7 +65,7 @@ const tech = () => {
   domString += '<div class="tech text-center">';
   domString += '<i class="fab fa-adobe"></i>';
   // eslint-disable-next-line max-len
-  domString += '<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam error eius sapiente, cum nobis aliquam? Officia aspernatur assumenda quam perspiciatis, omnis animi laudantium veritatis at optio nemo ea consectetur quisquam?</p>';
+  domString += '<p>Adobe CC</p>';
   domString += '</div>';
   domString += '</div>';
 
@@ -73,7 +73,7 @@ const tech = () => {
   domString += '<div class="tech text-center">';
   domString += '<i class="fas fa-photo-video"></i>';
   // eslint-disable-next-line max-len
-  domString += '<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam error eius sapiente, cum nobis aliquam? Officia aspernatur assumenda quam perspiciatis, omnis animi laudantium veritatis at optio nemo ea consectetur quisquam?</p>';
+  domString += '<p>DaVinci Resolve</p>';
   domString += '</div>';
   domString += '</div>';
   domString += '</div>';

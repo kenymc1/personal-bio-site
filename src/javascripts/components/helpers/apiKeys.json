@@ -1,0 +1,11 @@
+{
+"firebaseKeys": {
+  "apiKey": "AIzaSyBswZaF6SA2TrQV_mweJuNXF6dCf0p2iQo",
+  "authDomain": "kenneth-mceastland.firebaseapp.com",
+  "databaseURL": "https://kenneth-mceastland.firebaseio.com",
+  "projectId": "kenneth-mceastland",
+  "storageBucket": "kenneth-mceastland.appspot.com",
+  "messagingSenderId": "1043445358409",
+  "appId": "1:1043445358409:web:ec297025ab38f93de8c498"
+ }
+}
