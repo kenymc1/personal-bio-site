@@ -29,20 +29,11 @@
   },
 	"project4": {
 	"title": "Star Destroyer",
-	"screenshot": "https://github.com/kenymc1/React-hoarder/issues/2#issue-640090684",
-	"description": "This project we are able to show and add useless stuff we have",
+	"screenshot": "https://raw.githubusercontent.com/kenymc1/personal-bio-site/master/src/img/Screen%20Shot%202020-06-17%20at%2012.20.34%20PM.png",
+	"description": "An app based off the Star Wars universe to creat missions",
 	"technologiesUsed": "HTML, CSS, React, and BootStrap",
 	"available": "true",
-	"url": "https://react-hoarder-bf2d2.web.app/",
-	"githubUrl": "https://github.com/nss-evening-cohort-11/nutshell-droids-ewoks"
-  },
-	"project5": {
-	"title": "Pan-Am",
-	"screenshot": "https://github.com/kenymc1/scatt-surprise/issues/1#issue-640098585",
-	"description": "A dashbord collection for an airlines",
-	"technologiesUsed": "HTML, CSS, JavaScript, and BootStrap",
-	"available": "true",
-	"url": "https://scat-surprise-313c2.firebaseapp.com/home",
+	"url": "https://star-destroyer-bef28.firebaseapp.com/",
 	"githubUrl": "https://github.com/nss-evening-cohort-11/nutshell-droids-ewoks"
   }
  }
