@@ -5,7 +5,7 @@ const navigation = () => {
   let domString = '';
   domString += '<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">';
   domString += '<a class="navbar-brand" href="#">';
-  domString += '<img src="/src/img/future devloper logo.png" width="75"></a>';
+  domString += '<img src="https://raw.githubusercontent.com/kenymc1/personal-bio-site/master/src/img/future%20devloper%20logo.png" width="75"></a>';
   domString += '<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">';
   domString += '<span class="navbar-toggler-icon"></span></button>';
   domString += '<div class="collapse navbar-collapse" id="navbarNav">';
